@@ -7,6 +7,7 @@ This project is for integrating Ibeacon plugin to ROllbase mobile.
 
 #IBeacon Cardova plug-in integration for  Rollbase Iphone mobile Application.  
 
+
 ###Cardova plugin Details.
 *****
 Name: IBeacon Cardova plug-in. for android and Iphone
@@ -14,8 +15,10 @@ License: Apache Licence.
 Features:Ranging,Monitoring.
 Url:https://github.com/petermetz/cordova-plugin-ibeacon
 
+
 Steps to add cardova plugin to Rollbase mobile
 
+Note: all the files mentioned in document are available in source code
 [IBeacon cardova plugin](https://www.dropbox.com/s/1usu5bpsuw21e3m/customCardova%20plugin.docx?dl=0)
 
 Adding IBeacon Cardova Plugin:
